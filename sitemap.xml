@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://indrajityadav.vercel.app/</loc>
-  </url>
+  <url><loc>https://indrajityadav.vercel.app/</loc></url>
+  <url><loc>https://indrajityadav.vercel.app/civic-sync.html</loc></url>
+  <url><loc>https://indrajityadav.vercel.app/bharatgov-ai.html</loc></url>
+  <url><loc>https://indrajityadav.vercel.app/voiceguard.html</loc></url>
+  <url><loc>https://indrajityadav.vercel.app/nexarivo-ai.html</loc></url>
 </urlset>
